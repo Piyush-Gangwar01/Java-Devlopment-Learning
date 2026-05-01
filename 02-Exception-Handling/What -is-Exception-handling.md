@@ -1,4 +1,4 @@
-## Exception Handling (Java) — 3W Method
+## Exception Handling (Java) 
 
 ### 1️⃣ What is this?
 
