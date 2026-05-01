@@ -41,7 +41,7 @@ Output
 
 ---
 
-# 2️⃣ Why is this used?
+### 2️⃣ Why is this used?
 
 Collection Framework is used because:
 
@@ -58,7 +58,7 @@ Operations like add, remove, search are simple.
 
 ---
 
-# 3️⃣ Where is this used?
+### 3️⃣ Where is this used?
 
 Collection Framework is used in:
 
@@ -112,8 +112,8 @@ LinkedList
 `Map` is **separate from Collection interface**.
 
 ---
-**##Collection API :**
-1️⃣ What is this?
+# Collection API :
+### 1️⃣ What is this?
 
 The Collection API in Java is a set of classes and interfaces that provide methods to store, retrieve, and manipulate groups of objects.
 
@@ -149,7 +149,7 @@ Here ArrayList uses the Collection API methods like add() and size().
 Output:
 
 3
-2️⃣ Why is this used?
+### 2️⃣ Why is this used?
 
 Collection API is used because it:
 
@@ -161,7 +161,8 @@ Collection API is used because it:
 
 4️⃣ Allows dynamic data storage
 
-**Comparator vs Comparable (Java)**
+---
+# **Comparator vs Comparable (Java)**
 1️⃣ What is this?
 
 Both Comparable and Comparator in Java are interfaces used to sort objects.
@@ -207,7 +208,7 @@ class AgeComparator implements Comparator<Student> {
         return s1.age - s2.age;
     }
 }
-2️⃣ Why is this used?
+### 2️⃣ Why is this used?
 
 They are used to:
 
